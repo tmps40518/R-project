@@ -1,0 +1,9 @@
+name: "Descriptive Analysis"
+navbar:
+  title: "Descriptive Analysis"
+  left:
+    - text: "Singapore Household Electricity Consumption"
+      href: index.html
+
+
+
